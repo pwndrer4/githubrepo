@@ -1,0 +1,35 @@
+Package: com.pwndrer4.awemedouyinxiaowanzi
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Alan
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.cydiaapp.awemedouyinhelper
+Filename: ./debs/com.pwndrer4.awemedouyinxiaowanzi_2.0.1_iphoneos-arm.deb
+Size: 7644698
+MD5sum: 64d2833c9ced3f4dd74406a9d5eb1115
+SHA1: 0b7c0f245306f47620e1a199b3be5f71ff8b9533
+SHA256: c3e620ca5182e4a44ecb5111d4e18b61bab6119a93eb762587bb03eaa9e75aa5
+Section: 插件
+Priority: optional
+Description: 抖商达人，账号便捷切换，自动评论，自动关注，指定用户粉丝评论，一键下载无水印视频
+Author: JS
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: 抖商达人-【官方插件版】
+Sponsor: Alan
+
+Package: com.pwndrer4.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: Alan
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.pwndrer4.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 164386
+MD5sum: 2ff18f7253e0690e76c89c6c20305aad
+SHA1: 2d495303e06f0d26dad06a9ed0b6350d11b97162
+SHA256: aa5d859318b116af2a4a7661e19cb2c9b21ac8b2cdf004a6a0329f56fbcc31cc
+Section: 插件
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackTool3 破解插件
+Sponsor: Alan
+
