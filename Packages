@@ -17,6 +17,24 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: 抖商达人-【官方插件版】
 Sponsor: Alan
 
+Package: com.pwndrer4.baidupifuApril
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Alan
+Depends: mobilesubstrate
+Filename: ./debs/com.pwndrer4.baidupifuApril_1.0_iphoneos-arm.deb
+Size: 14758470
+MD5sum: 1a9f2c6edd12c34a09f66bdfc44fa678
+SHA1: 61a59578c3603a0538389101ef895d1933e0bd81
+SHA256: 3f71856d8f631c39f28c18ad9eb841afb1a87eca5e29f5a125f1089d5585126b
+Section: 美化
+Priority: standard
+Author: 森林集
+Icon: file:///Applications/Cydia.app/Sections/Toys.png
+Name: 百度输入法皮肤-April系列
+Sponsor: Alan
+
 Package: com.pwndrer4.cracktool3
 Version: 3.0~beta11
 Architecture: iphoneos-arm
